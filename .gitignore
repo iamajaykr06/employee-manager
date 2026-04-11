@@ -1,0 +1,16 @@
+# Environment files
+.env
+
+# Log files
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Composer vendor directory (if using Composer)
+/vendor/
